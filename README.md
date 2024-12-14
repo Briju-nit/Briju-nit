@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img align="right" margin-bottom="15" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" margin-bottom="15" alt="Coding" width="190" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 🔭 I’m currently working as a Web Developer at Vortex (NITT's CSE Club).<br>👯 I’m looking to collaborate on AI/ML Technologies.<br>🤝 I’m looking for help with newborn experience as a Web Developer in corporate companies.<br>🌱 I’m currently learning MERN Stack Web Development.<br>💬 Ask me about Tech.<br>⚡ Fun fact Enthusiast of watching cricket.
 
 
